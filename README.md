@@ -7,3 +7,4 @@ the last element is 0.  This algorithm finds all the solutions and prints each s
 The goal of this programming project is for you to master the following tasks:<br>
 -designing a program from scratch (deciding what classes and methods should be part of the program)<br>
 -writing recursive functions<br>
+<img width="629" alt="Screen Shot 2023-12-14 at 5 49 52 PM" src="https://github.com/DeveshJ1/ArrayNumberPuzzle/assets/65970729/34b75d14-e15e-401e-9e4c-f546d444eee1">
